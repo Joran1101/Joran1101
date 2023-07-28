@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![Joran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joran1101&theme=cobalt2&show_icons=true)
+
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Joran1101&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joran1101)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Joran1101/Joran1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
