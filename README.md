@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a listed company in Nanjing
 - 🌱 I’m currently learning AIGC
 - 👯 I’m looking to collaborate on Computer Vision and AIGC
-- 💬 Ask me about anything you want
+- 💬 Ask me about anything [here](https://github.com/Joran1101/Joran1101/issues)
 - 📫 How to reach me: joran1101@163.com
 - ⚡ Fun fact: dog breeder & new dad
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
