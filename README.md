@@ -32,11 +32,10 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Joran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joran1101&theme=cobalt2&show_icons=true)
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Joran1101&show_icons=true&theme=tokyonight)
+![Joran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joran1101&theme=cobalt2&show_icons=true)![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Joran1101&show_icons=true&theme=tokyonight)
 
 ## 🌎 Find me
-- email:<a href="mailto:joran1101@163.com">joran1101@163.com</a>:e-mail:
+- email: <a href="mailto:joran1101@163.com">joran1101@163.com</a>:e-mail:
 
 ## 🌎 Visitors
 [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
