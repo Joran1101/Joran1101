@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything you want
 - 📫 How to reach me: joran1101@163.com
 - ⚡ Fun fact: dog breeder & new dad
-
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 ## ⚡ Platforms
 
