@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on a listed company in Nanjing
+- 🔭 I’m currently working in Shanghai 
 - 🌱 I’m currently learning AIGC
 - 👯 I’m looking to collaborate on Computer Vision and AIGC
 - 💬 Ask me about anything [here](https://github.com/Joran1101/Joran1101/issues)
