@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working in Shanghai 
-- 🌱 I’m currently learning AIGC
-- 👯 I’m looking to collaborate on Computer Vision and AIGC
+- 🌱 I’m currently learning LLM
+- 👯 I’m looking to collaborate on AIGC
 - 💬 Ask me about anything [here](https://github.com/Joran1101/Joran1101/issues)
 - 📫 How to reach me: joran1101@163.com
 - ⚡ Fun fact: dog breeder & new dad
