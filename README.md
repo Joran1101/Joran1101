@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on AIGC
 - 💬 Ask me about anything [here](https://github.com/Joran1101/Joran1101/issues)
 - 📫 How to reach me: joran1101@163.com
-- ⚡ Fun fact: dog breeder & new dad
+- ⚡ Fun fact: I am a father of four-legged child
 - ✨ My civital link [here](https://civitai.com/user/joran1101/models)
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 ## ⚡ Platforms
